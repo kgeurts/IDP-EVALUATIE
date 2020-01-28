@@ -25,9 +25,8 @@ Zie meegeleverde screenshots. ( In de Github repo )
  
  Ik zou mijzelf een 7,5 geven, omdat ik de communicatie bij elkaar heb gehouden.
 
-
-
-##Deel 2: reflectie op het project
+Deel 2: reflectie op het project
+====
 
 **Wat vond je van project Wintercircus?**
 Ik vond het een leuk project, echter heb ik wel het idee dat er beter gekozen had kunnen worden voor de Game-Developpers aangezien hun input en kennis over deze stof hebben.
