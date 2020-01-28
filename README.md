@@ -1,8 +1,6 @@
-IDP-EVALUATIE
-====
-
+# IDP-EVALUATIE
 Deel 1: reflectie op eigen handelen:
-
+=====
 **Wat is specifiek mijn bijdrage geweest tijdens de sprints? Beschrijf per sprint.**
 *Sprint 0: Opzetten van de drive om in te werken & brainstormen over een goed idee.
 *Sprint 1: Opzetten user stories [Link](https://docs.google.com/spreadsheets/d/1Onz_-7m-szRH8na0p4rCJgkqjaNOuQzywWewEiseQAc/edit?usp=drive_web&ouid=112083539450564776760)
